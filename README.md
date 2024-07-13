@@ -12,7 +12,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
-<h3 align="center">A passionate frontend developer from Perú</h3>
+<h3 align="center">A passionate Backend developer from Perú</h3>
 
 <h3 align="left">Connect with me : ericksebastian.dev@gmail.com</h3>
 <p align="left">
